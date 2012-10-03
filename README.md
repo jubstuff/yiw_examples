@@ -1,4 +1,7 @@
-yiw_custom_post_progetti
+Your Inspiration Web - Code Examples
 ========================
 
-Wordpress plugin for creating a project custom post type
+Questo repository ospita gli esempi che sono associati agli articoli
+pubblicati su [YIW][1].
+
+[1]: http://www.yourinspirationweb.com
